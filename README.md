@@ -3,8 +3,6 @@ EN: simple program in JAVA, created to train and study treatment approaches in t
 
 A main program example:
 
-public class Bank {
-
 	public static void main(String[] args) {
 
 		Locale.setDefault(Locale.US);
